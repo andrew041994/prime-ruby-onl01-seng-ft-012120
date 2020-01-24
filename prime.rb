@@ -5,7 +5,7 @@ def prime? (num)
     #   return true
     # # else num > 1
     # #   return false if num % 2 == 0
-    # 
+    #
     # end
     puts num
 end
