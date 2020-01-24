@@ -1,7 +1,6 @@
 def prime? (num)
     if num > 1
-        num % 1 && num == 0
-      return true
+      return true if num % 1 && num == 0
     else
       return false
 
